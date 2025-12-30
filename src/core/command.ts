@@ -28,6 +28,7 @@ export const smartTab = (
       return;
     }
   }
+  vscode.commands.executeCommand("tab");
 };
 
 export const toggle = (context: vscode.ExtensionContext) => {

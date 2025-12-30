@@ -2,7 +2,7 @@
   "name": "smarttab",
   "displayName": "SmartTab",
   "description": "Smart tab out of quotes, brackets, etc.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "congjiye",
   "repository": {
     "type": "git",
